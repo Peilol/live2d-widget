@@ -173,7 +173,7 @@
   }],
   "click": [{
     "selector": ".veditor",
-    "text": ["要吐槽些什么呢？", "一定要认真填写喵～", "有什么想说的吗？"]
+    "text": ["要吐槽些什么呢？", "哈！！！", "有什么想说的吗？"]
   }, {
     "selector": ".vsubmit",
     "text": ["输入验证码就可以提交评论啦～"]
@@ -292,5 +292,9 @@
     "name": "Hiyori",
     "paths": ["https://fastly.jsdelivr.net/gh/Live2D/CubismWebSamples/Samples/Resources/Hiyori/Hiyori.model3.json"],
     "message": "是 Hiyori 哦 ~"
+  }, {
+    "name": "Mahiro_GG",
+    "paths": ["/live2d-widget/dist/Mahiro_GG/Mahiro_V1.model3.json"],
+    "message": "真寻来啦 ~"
   }]
 }
