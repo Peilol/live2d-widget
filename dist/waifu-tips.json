@@ -294,7 +294,7 @@
     "message": "是 Hiyori 哦 ~"
   }, {
     "name": "Mahiro_GG",
-    "paths": ["https://fastly.jsdelivr.net/gh/Peilol/live2d-widget@latest/dist/Mahiro_GG/Mahiro_V1.model3.json"],
+    "paths": ["https://fastly.jsdelivr.net/gh/Peilol/live2d-widget@master/dist/Mahiro_GG/Mahiro_V1.model3.json"],
     "message": "不要戳peilol的看板娘了哦 ~"
   }]
 }
